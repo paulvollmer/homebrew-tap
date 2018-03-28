@@ -1,4 +1,4 @@
-class Wcl < Formula
+class GithubIssuesArchive < Formula
     desc "github issues archive"
     url "https://github.com/paulvollmer/github-issues-archive/releases/download/v0.1.1/github-issues-archive_0.1.1_darwin_amd64.tar.gz"
     version "0.1.1"
