@@ -5,7 +5,6 @@ class GithubIssuesArchive < Formula
     sha256 "7fb2ca157c9de839448d1e6b3f64b810719e091b8e9282ddcda8654a81caadf8"
 
     def install
-      system "tar -zxvf  github-issues-archive_0.1.1_darwin_amd64.tar.gz"
       bin.install "github-issues-archive"
     end
 
