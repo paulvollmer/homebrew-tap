@@ -1,4 +1,4 @@
-class HtmlTable2Csv < Formula
+class Htmltable2csv < Formula
     desc "htmltable2csv is a tool to parse a html table and store the data as csv. It can be written to a file or print out to stdout"
     url "https://github.com/paulvollmer/htmltable2csv/releases/download/v0.2.1/htmltable2csv_0.2.1_darwin_amd64.tar.gz"
     version "0.2.1"
