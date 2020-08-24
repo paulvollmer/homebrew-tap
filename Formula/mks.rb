@@ -1,8 +1,8 @@
 class Mks < Formula
     desc "mks is a tool to create files and the intermediate directories"
-    url "https://github.com/paulvollmer/mks/releases/download/v0.1.0/mks_0.1.0_darwin_amd64.tar.gz"
-    version "0.1.0"
-    sha256 "eb40ede779cf637cab74bf57133dc744eed7cfd2b81fc3f482f39ec40d1e6a04"
+    url "https://github.com/paulvollmer/mks/releases/download/v0.2.0/mks_0.2.0_darwin_amd64.tar.gz"
+    version "0.2.0"
+    sha256 "c4da76858f7927e7f1165c8103e90d068d64b29e571c76e04b770a5853a64377"
 
     def install
       bin.install "mks"
